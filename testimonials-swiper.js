@@ -1,5 +1,5 @@
 const swiper = new Swiper('.swiper', {
-    speed: 1000,
+    speed: 500,
     loop: true,
     autoHeight: false,
     centeredSlides: true,
